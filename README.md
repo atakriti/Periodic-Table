@@ -1,1 +1,2 @@
-# Table for exercise nth child
+# Periodic Table
+![Periodic Table](./img/README.png).

@@ -4,8 +4,10 @@
   box-sizing: border-box;
 }
 table {
-  width: 80vw;
-  height: 80vh;
+   
+    
+  width: 80rem;
+  height: 40rem;
   margin-left: 3rem;
 }
 table tr td {
